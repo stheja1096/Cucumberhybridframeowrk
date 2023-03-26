@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: Runner.Testrunner
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 7, Skipped: 0, Time elapsed: 129.477 s <<< FAILURE! - in Runner.Testrunner
+Login with  valid credentials page(Login  functionality)  Time elapsed: 34.006 s  <<< ERROR!
+java.lang.NullPointerException
+
+Login with  invalid credentials page(Login  functionality)  Time elapsed: 15.621 s  <<< ERROR!
+java.lang.NullPointerException
+
+Login with  valid mail and invalid  password(Login  functionality)  Time elapsed: 14.859 s  <<< ERROR!
+java.lang.NullPointerException
+
+Login with  with out credentials(Login  functionality)  Time elapsed: 13.741 s  <<< ERROR!
+java.lang.NullPointerException
+
+User searches for a valid product(Search functionality)  Time elapsed: 14.264 s  <<< ERROR!
+java.lang.NullPointerException
+
+User searches for an invalid product(Search functionality)  Time elapsed: 14.587 s  <<< ERROR!
+java.lang.NullPointerException
+
+User searches without any product(Search functionality)  Time elapsed: 14.399 s  <<< ERROR!
+java.lang.NullPointerException
+
